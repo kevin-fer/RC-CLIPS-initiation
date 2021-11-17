@@ -1,4 +1,5 @@
 # RC-CLIPS-initiation
+![image](https://user-images.githubusercontent.com/74706736/142190749-9711f353-6707-47e3-bbb6-c74c78df3c9f.png)
 
 ```code
 ;----------------------------------------------------------------------------
